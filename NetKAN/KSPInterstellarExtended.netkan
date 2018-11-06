@@ -28,13 +28,13 @@
         { "name"        : "InterstellarFuelSwitch"   },
         { "name"        : "KerbalJointReinforcement" },
         { "name"        : "PersistentRotation"       }, 
+        { "name"        : "FilterExtensions"         }, 
         { "name"        : "PhotonSailor"             },
         { "name"        : "BetterBurnTime"           }
     ],
     "suggests": [
         { "name"        : "CommunityResourcePack"    },
         { "name"        : "CommunityTechTree"        },
-        { "name"        : "FilterExtensions"         }, 
         { "name"        : "HeatControl"              },
         { "name"        : "TexturesUnlimited"        },
         { "name"        : "UniversalStorage"         },
